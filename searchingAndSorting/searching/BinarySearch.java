@@ -1,4 +1,4 @@
-package searchingAndSorting;
+package searchingAndSorting.searching;
 
 // we will assume that the input is always sorted
 public class BinarySearch {
