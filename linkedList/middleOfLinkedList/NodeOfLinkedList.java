@@ -1,4 +1,4 @@
-package middleOfLinkedList;
+package linkedList.middleOfLinkedList;
 
 public class NodeOfLinkedList {
     int value;

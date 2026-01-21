@@ -1,4 +1,4 @@
-package middleOfLinkedList;
+package linkedList.middleOfLinkedList;
 
 /* find the middle element of the LinkedList
 1,2,3,4,5,6,7 -> 4
